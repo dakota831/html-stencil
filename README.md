@@ -5,5 +5,3 @@ https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements
 Instructor: Maximilian Schwarzmüller
 
 Vanilla JS + Stencil JS Course
-
-Thank you for your interest in this project. 
